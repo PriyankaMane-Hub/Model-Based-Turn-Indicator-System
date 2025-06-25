@@ -1,4 +1,4 @@
-# 🚘 Turn Indicator System for Automotive Applications
+# 🚘 Turn Light Indicator System for Automotive Applications
 
 ## 🔧 Model-Based Design & MIL Testing in Simulink
 
@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project involves the development of a Turn Indicator System using a Model-Based Design approach in MATLAB/Simulink. It simulates real-world vehicle behavior by interpreting the states of turn signal and hazard switch inputs and generating corresponding outputs for vehicle indicator lamps. System requirements were defined to reflect real automotive scenarios and implemented using a bus-based architecture for clean and modular signal management. The model was validated through Model-in-the-Loop (MIL) simulations to ensure compliance with timing specifications such as a 50% duty cycle blink for 2 seconds.
+This project involves the development of a Turn Light Indicator System using a Model-Based Design approach in MATLAB/Simulink. It simulates real-world vehicle behavior by interpreting the states of turn signal and hazard switch inputs and generating corresponding outputs for vehicle indicator lamps. System requirements were defined to reflect real automotive scenarios and implemented using a bus-based architecture for clean and modular signal management. The model was validated through Model-in-the-Loop (MIL) simulations to ensure compliance with timing specifications such as a 50% duty cycle blink for 2 seconds.
 
 ---
 
