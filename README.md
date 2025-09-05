@@ -92,3 +92,7 @@ This project helped me strengthen my skills in:
 - Creating MIL test reports to document simulation results and trace verification
 - Handling edge-case scenarios in safety-critical automotive applications
 
+
+## Turn Indicator Model 
+
+<img width="1677" height="482" alt="Turn_Indicator_Model" src="https://github.com/user-attachments/assets/d501bb55-111f-4a7f-bd06-e77b2849791b" />
